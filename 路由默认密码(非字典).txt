@@ -58,3 +58,5 @@ zyxel用户名:anonymous密码:1234
 斯威特用户名：root密码：root 
 用户名：user密码：user 
 中兴用户名：adsl密码：adsl831
+华为交换机路由器默认密码: admin:admin
+华为交换机路由器默认密码: admin:admin@huawei.com
